@@ -1,0 +1,14 @@
+[package]
+name = "wolf_system"
+version = "2.1.0"
+authors = ["Pooya Eimandar <pooya.eimandar@live.com>"]
+edition = "2018"
+
+[lib]
+name = "wolf_system"
+crate-type = ["staticlib", "cdylib"] 
+path = "src/lib.rs"
+
+[dependencies]
+libc = "0.2"
+mimalloc = { version = "*", default-features = true }

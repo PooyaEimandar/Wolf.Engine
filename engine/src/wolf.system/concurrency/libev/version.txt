@@ -1,2 +1,0 @@
-libev version 4.33
-http://software.schmorp.de/pkg/libev.html

@@ -1,4 +1,0 @@
-https://github.com/uNetworking/uWebSockets
-v.18.2.0
-Latest commit
-17b718a

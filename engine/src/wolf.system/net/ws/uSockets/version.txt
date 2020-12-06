@@ -1,2 +1,0 @@
-https://github.com/uNetworking/uSockets/
-v0.4.0
